@@ -1,0 +1,218 @@
+#navbar{
+  background-color: #ffffff !important;
+  height: 70px;
+}
+
+#logo{
+  width: 180px;
+  height: 70px;
+}
+
+
+.left-content{
+  float: left;
+}
+
+.jumbotron{
+
+  background-size: cover;
+  height: 700px;
+  color: white
+
+}
+
+#header-div{
+  top: 90px;
+  left: 30px;
+  bottom: auto;
+}
+
+#Subscription{
+  top: 400px;
+  left: 70px;
+  bottom: auto;
+}
+
+.bold{
+text-decoration: bold;
+}
+
+.clear{
+float: none;
+}
+
+.wrapper-two{
+margin-top: 100px;
+}
+
+.image{
+width: 100%;
+height: 650px;
+}
+
+#features{
+color: orange;
+
+}
+
+.features{
+padding-left: 20px;
+padding-right: 20px;
+}
+
+h4{
+color: #543B78;
+position: relative;
+top: 20px;
+}
+
+.live{
+width: 100%;
+height: 300px;
+margin-top: 50px;
+background-color: #F5F5F5;
+}
+
+#live{
+margin-left: 600px;;
+margin-top: -40px;
+
+}
+
+.live-content{
+float: left;
+margin-top: 25px;
+margin-left: 45px;
+}
+
+.courses{
+width: 100%;
+height: 200px;
+background-color: #FFFFFF;
+}
+
+#courses{
+margin-top: -20px;
+}
+
+.courses-content{
+float: right;
+margin-top: 45px;
+margin-right: 45px;
+}
+
+.doubt{
+width: 100%;
+height: 300px;
+margin-top: 250px;
+background-color: #F5F5F5;
+}
+
+#doubt{
+width: 400px;
+height: 250px;
+margin-left: 650px;;
+margin-top: -30px;
+}
+
+.doubt-content{
+float: left;
+margin-top: 15px;
+margin-left: 45px;
+}
+
+.performance{
+width: 100%;
+height: 200px;
+background-color: #FFFFFF;
+}
+
+#performance{
+width: 450px;
+height: 250px;
+margin-top: 70px;
+margin-left: 60px;
+
+}
+
+.performance-content{
+float: right;
+margin-top: 45px;
+margin-right: 45px;
+}
+
+.about{
+    margin-top: 150px;
+}
+.image-about{
+
+width: 100%;
+height: 500px;
+background-size: cover;
+
+}
+
+.carousel-about{
+position: absolute;
+top: 150px;
+}
+
+.about-content{
+font-size: 20px;
+}
+
+.ceo{
+width: 100%;
+height: 350px;
+background-color: orange;
+margin-top: 50px;
+}
+
+.ceo-subclass{
+background-color: #F4E4CA;
+width: 1000px;;
+height: 250px;
+margin:25px 10px 20px 50px;
+}
+
+.ceo-para{
+margin-top: 25px;
+margin-left: 25px;
+width: 600px;
+height: 200px;
+float: left;
+font-style: italic;
+}
+
+
+.founder-image{
+width: 180px;
+height: 150px;
+border-radius: 50%;
+margin-left: 90px;
+margin-top: 25px;
+}
+
+.founder-name{
+text-align: center;
+margin-top: 20px;
+font-size: 25px;
+font-weight: bold;
+
+}
+
+footer{
+background-color: #1C2331;
+color: #ffffff;
+margin-top: 20px;
+}
+
+.copyright{
+background-color: #323841;
+color: white;
+}
+
+.downloadPic{
+width: 200px;
+height: 70px;
+}
